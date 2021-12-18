@@ -14,5 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('app');
 });
+
+Route::post('/upload', [App\Http\Controllers\PdfController::class, 'store'])->name('pdf.store');
+Route::get('/pdf-list', [App\Http\Controllers\PdfController::class, 'index'])->name('pdf.index');
