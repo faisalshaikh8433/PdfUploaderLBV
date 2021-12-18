@@ -1,6 +1,9 @@
 <template>
 	<div class="w-25 border bg-grey">
-		<div class="d-flex align-items-center justify-content-between p-3">
+		<div
+			class="d-flex align-items-center justify-content-between p-3"
+			style="border-bottom: 1px solid #d7d9e0"
+		>
 			<span class="fw-bold" style="font-size: 13px">FILES</span>
 			<span
 				class="fw-lighter"

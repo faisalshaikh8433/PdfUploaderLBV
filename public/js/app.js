@@ -5471,6 +5471,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   props: {
@@ -28912,7 +28915,10 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "div",
-      { staticClass: "d-flex align-items-center justify-content-between p-3" },
+      {
+        staticClass: "d-flex align-items-center justify-content-between p-3",
+        staticStyle: { "border-bottom": "1px solid #d7d9e0" },
+      },
       [
         _c(
           "span",
