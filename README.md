@@ -14,6 +14,6 @@ Application to upload pdf files, build using Laravel, Vuejs, Bootstrap and Mysql
 
 ## Screenshot
 
-![Screenshot from 2021-12-19 01-56-43](https://user-images.githubusercontent.com/48914446/146654993-c585d21e-2e73-4a93-82c6-ae99de35f34b.png)
+![Screenshot from 2021-12-19 03-30-37](https://user-images.githubusercontent.com/48914446/146656564-db4366e8-18ad-4361-9ca1-369d7a9a00a8.png)
 
 
